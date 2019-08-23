@@ -1,0 +1,1 @@
+Namespace(adaptivesoftmax=False, attmlplayers=3, batch_size=64, bptt=100, clip=0.1, cuda=False, cutoffs=[10000, 50000, 100000], data='./data/wikitext-2', emsize=192, epochs=100, forgetbias=1.0, gatestyle='unit', headsize=192, inputbias=0.0, keysize=64, log_interval=100, lr=0.001, memslots=1, name=None, numblocks=1, numheads=4, onnx_export='', resume=None, seed=1111)
